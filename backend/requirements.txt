@@ -1,0 +1,11 @@
+fastapi[all]
+SQLAlchemy
+psycopg2-binary
+pydantic
+scikit-learn
+xgboost
+pandas
+numpy
+shap
+mlflow
+joblib
